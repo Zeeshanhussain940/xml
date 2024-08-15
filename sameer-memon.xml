@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="styling.css" type="text/css"?>
+
+<Cars>
+
+   <Vehicle>
+
+        <Manufacturer>BMW</Manufacturer>
+
+        <Model>M3</Model>
+
+        <Color>Metallic Silver</Color>
+
+        <Price>1 bitcoin today value</Price>
+
+        <Location>Liverpool</Location>
+
+   </Vehicle>
+
+   <Vehicle>
+
+     <Manufacturer>TOYOTA</Manufacturer>
+
+     <Model>INNOVA</Model>
+
+     <Color>Gray</Color>
+
+     <Price>38,000 usd</Price>
+
+     <Location>California</Location>
+
+   </Vehicle>
+
+</Cars>
